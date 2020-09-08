@@ -1,0 +1,10 @@
+6|Joy Moy|12563 inf idfjn|86546654
+1|John Smith|123 Here Street|456-4567
+2|Sue Jones|43 Rose Court Street|345-7867
+55|rio|785 utngh|123047859
+3|Fan Yuhong|165 Happy Lane|345-4533
+4|Tirth Shah|1975 boul mais|514-3497
+5|ray bose|5236 lopi|1459632
+8|Joey|123 moi|12589632
+10|Lio|15285 iop|7894563258
+

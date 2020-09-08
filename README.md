@@ -1,3 +1,3 @@
-# comparativeclojure
+# Sales Order Application - Clojure
 
-A Clojure library designed to ... well, that part is up to you.
+developed a very simple Sales Order application using the Clojure language
